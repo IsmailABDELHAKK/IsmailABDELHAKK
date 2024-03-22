@@ -13,7 +13,7 @@ Projets en lumière ✨
 Nom du projet : Un aperçu rapide de ce projet incroyable où j'ai mis mes compétences en action.
 Nom du projet : Une autre pépite de code où j'ai laissé ma marque.
 
-Let's Connect 🌐
+Let's Connect 🌐 
 Besoin d'un coup de main sur un projet ? Ou juste envie de discuter tech ? Je suis toujours partant ! Envoyez-moi un e-mail à [votre_email@example.com] ou faites un tour sur LinkedIn. Faisons équipe et créons quelque chose de génial ensemble !
 
 Codez avec passion, Live with Purpose 🌟
