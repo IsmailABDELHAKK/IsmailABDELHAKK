@@ -19,4 +19,4 @@ Let's Connect 🌐
 
 Besoin d'un coup de main sur un projet ? Ou juste envie de discuter tech ? Je suis toujours partant ! Envoyez-moi un e-mail à ismail.abdelhakk@gmail.com ou faites un tour sur LinkedIn. Faisons équipe et créons quelque chose de génial ensemble !
 
-Codez avec passion, Live with Purpose 🌟
+Codez avec passion! Live with Purpose 🌟
