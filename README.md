@@ -1,6 +1,6 @@
 Yo ! Bienvenue sur mon profil GitHub 🚀
 
-Qui suis-je ?
+Qui suis-je ? 😊
 
 Salut, moi c'est Ismail ! Je suis un passionné de code en devenir chez Simplon, explorant les profondeurs infinies du développement web. Mon univers ? C'est celui où le HTML, le CSS et le JavaScript se rencontrent pour créer des expériences utilisateur époustouflantes.
 
