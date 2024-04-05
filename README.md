@@ -12,8 +12,8 @@ Résolution de problèmes: J'aime plonger dans le code pour traquer les bugs et 
 
 Projets en lumière ✨
 
-Nom du projet : Un aperçu rapide de ce projet incroyable où j'ai mis mes compétences en action.
-Nom du projet : Une autre pépite de code où j'ai laissé ma marque.
+Nom du projet : Un aperçu rapide de ce projet incroyable où j'ai mis mes compétences en action. in progress
+Nom du projet : Une autre pépite de code où j'ai laissé ma marque. in progress
 
 Let's Connect 🌐 
 
