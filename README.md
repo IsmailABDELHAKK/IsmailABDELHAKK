@@ -10,7 +10,7 @@ Développement Front-end: Je jongle avec les balises HTML, les styles CSS et les
 Design et UX: J'aime rendre les choses belles et intuitives, en veillant à ce que chaque pixel soit à sa place.
 Résolution de problèmes: J'aime plonger dans le code pour traquer les bugs et les exterminer avec détermination.
 
-Projets en lumière ✨ In progress 
+Projets en lumière ✨ 
 
 Nom du projet : Un aperçu rapide de ce projet incroyable où j'ai mis mes compétences en action.
 Nom du projet : Une autre pépite de code où j'ai laissé ma marque.
