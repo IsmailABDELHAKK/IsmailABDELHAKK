@@ -4,7 +4,7 @@ Qui suis-je ? 😊
 
 Salut, moi c'est Ismail ! Je suis un passionné de code en devenir chez Simplon, explorant les profondeurs infinies du développement web. Mon univers ? C'est celui où le HTML, le CSS et le JavaScript se rencontrent pour créer des expériences utilisateur époustouflantes.
 
-Ce que je fais 🔧
+Ce que je fais 🔧 
 
 Développement Front-end: Je jongle avec les balises HTML, les styles CSS et les scripts JavaScript pour construire des interfaces à couper le souffle.
 Design et UX: J'aime rendre les choses belles et intuitives, en veillant à ce que chaque pixel soit à sa place.
